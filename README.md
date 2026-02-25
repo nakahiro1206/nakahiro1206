@@ -6,7 +6,7 @@
 
 ## [Norihamarou](https://github.com/nakahiro1206/Norihamarou)
 
-Landing page for Norihamalou, a mapo-tofu stand at Gogatsu-Sai school festival in the University of Tokyo.
+Landing page for Norihamarou, a mapo-tofu stand at Gogatsu-Sai school festival of the University of Tokyo.
 Used React, Typescript, Next.js, and Panda CSS (now altered to Tailwind CSS) for development.
 Explored various design patterns with AI-powered design tools such as V0, Lovable.
 
@@ -15,18 +15,18 @@ Explored various design patterns with AI-powered design tools such as V0, Lovabl
 ## [Slack-Cronjob](https://github.com/nakahiro1206/slack-cronjob)
 
 Admin page and LLM integration for a Slack bot that posts meeting slots in a channel.
-Channel members can invoke LLM to edit the order pf the meeting slots, and the system will update the message accordingly.
+Channel members can invoke LLM to edit the order of the meeting slots, and the system will update the message accordingly.
 Used React, Typescript, Next.js, and Tailwind CSS for development.
-Developed the server-side in domain-driven development manner.
+Developed the server-side in a domain-driven development manner.
 
 ## [Weaviate-AutoGen](https://github.com/nakahiro1206/weaviate-autogen)
 
-A system to chunk academic papers and store them in Weaviate, and then use LLM agents to asnwer questions based on the stored papers.
-Used Weaviate and AUtoGen for backend development, and React, Typescript, Next.js, and Tailwind CSS for frontend development.
+A system to chunk academic papers and store them in Weaviate, and then use LLM agents to answer questions based on the stored papers.
+Used Weaviate and AutoGen for backend development, and React, Typescript, Next.js, and Tailwind CSS for frontend development.
 
 ## [FoxDot-AI-Integration](https://github.com/nakahiro1206/foxdot-ai-integration)
 
-Systematic beat generation using FoxDot, a live coding environment for music, and AI models. The system generates beats based on user input and plays them after code generation.
+AI-powered systematic beat generation using FoxDot, a live coding environment for music. The system generates beats based on user input and plays them after code generation.
 Used FoxDot and LangGraph for beat composition, and Gradio for the user interface.
 
 # 📊 GitHub Stats:
